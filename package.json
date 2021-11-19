@@ -1,5 +1,5 @@
 {
-  "name": "react-testing",
+  "name": "react-testing-skilvul",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -37,5 +37,7 @@
   },
   "devDependencies": {
     "react-test-renderer": "^17.0.2"
-  }
+  },
+  "keywords": [],
+  "description": ""
 }
